@@ -188,56 +188,6 @@ A statistically significant result does not automatically imply that an investme
 
 ---
 
-## Project Structure
-
-```text
-financial-statistical-analysis/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── notebooks/
-│   └── financial_statistical_analysis.ipynb
-│
-├── src/
-│   ├── descriptive_statistics.py
-│   ├── hypothesis_tests.py
-│   └── inference.py
-│
-└── results/
-    └── statistical_analysis.png
-```
-
----
-
-## How to Run
-
-Clone the repository:
-
-```bash
-git clone <repository-url>
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Open the notebook:
-
-```bash
-jupyter notebook
-```
-
-Then run:
-
-```text
-notebooks/financial_statistical_analysis.ipynb
-```
-
----
 
 ## Key Learning Outcomes
 
